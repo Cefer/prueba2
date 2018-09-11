@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+
+body{
+	font-family:'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #333;
+
+}
+
+header{
+	background-color: #fff;
+	padding: 20px 0;
+	color: #000;
+}
+
+
+
+h3{
+	font-size: 25px;
+}
+
+.btn-samsung{
+	background-color: transparent;
+	color: #000;
+	border-radius: 20px;
+	border: 2px solid #000000;
+	text-transform: uppercase;
+	padding: 15px 30px;
+	font-weight: 600;
+	margin-top: 40px;
+	
+	
+}
+.btn-samsung:hover{
+	background-color: #252525;
+	color: #FFFFFF;
+}
+
+
+.espaciado{
+	padding: 50px 0;
+}
+
+.titulo{
+	font-size: 70px;
+	font-weight: 800;
+	padding-top: 100px;
+}
+
+.titulo-s{
+	font-size: 70px;
+	font-weight: 800;
+	
+}
+
+#sec-cooling{
+	background-color: #F3F3F3;
+}
+
+#sec-frame{
+	background-color: #F3F3F3;
+}
+
+footer{
+	background-color: #F0EDEE;
+	color: #000;
+	padding: 45px 0;
+	text-align: inherit;
+	font-size: 17px;
+}
+
+footer h4{
+	color: #000;
+	font-weight: 700;
+	font-size: 17px;
+	margin-left: 40px;
+}
+
+footer ul{
+	list-style-type: none;
+}
+
+footer ul li{
+	font-size: 16px;
+}
+
+.redes{
+	margin: 45px 0;
+}
+.redes li{
+	display: inline-block;
+}
+.redes a {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	display: block;
+	border-radius: 100%;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	background-color: #161616;
+	font-size: 25px;
+}
+
+.redes a:hover{
+	background-color: #FFF;
+	color: #252525;
+	transition: all ease 0.3s;
+}
+
+.footer-margen{
+	margin-left: 40px;
+}
+
+
